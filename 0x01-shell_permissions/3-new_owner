@@ -1,0 +1,2 @@
+#!/binb/bash
+sudo chown betty hello
